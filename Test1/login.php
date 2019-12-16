@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel="stylesheet" href="bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" crossorigin="anonymous">
     <title>Log in</title>
 </head>
 <body>
@@ -23,6 +23,7 @@
     <button type="submit" class="btn btn-default" name="login">Submit</button>
 </form>
 
+<a href="singup.php">Sign up</a>
 
 </div>
 

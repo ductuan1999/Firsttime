@@ -8,3 +8,4 @@
     echo "You have successfully logged out";
     header("location: login.php")
 ?>
+

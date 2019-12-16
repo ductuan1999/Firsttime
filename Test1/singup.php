@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel="stylesheet" href="bootstrap.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" crossorigin="anonymous">
     <title>Sign Up</title>
 </head>
 <body>

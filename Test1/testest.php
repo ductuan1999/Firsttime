@@ -1,3 +1,11 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css" crossorigin="anonymous">
+    <title>Sign Up</title>
+</head>
+<body>
+<h1>Test Website</h1>
+<h3>Sign up:</h3>
 <form method="post" action="registering.php">
     <div class="form-group">
         <label for="email">First Name: </label>
@@ -17,5 +25,7 @@
     </div>
     <button type="submit" class="btn btn-default" name="login">Submit</button>
     <button type="button" onclick="location.href='login.php'" class="btn btn-default" name="login">Back</button>
-
 </form>
+
+</body>
+</html>
